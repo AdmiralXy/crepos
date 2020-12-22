@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: два или более файлов с именем CFigure.cpp выводят результаты в одно и то же расположение. Это может стать причиной неверного результата сборки.  Включенные файлы — ..\..\Lib\CFigure\CFigure.cpp, cfigure.cpp.
+  stdafx.cpp
+  CFigure.cpp
+c:\users\danil\source\repos\lib\cfigure\cfigure.cpp(6): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+  cfigure.cpp
+  Создание кода...

@@ -1,0 +1,10 @@
+C:\Users\Danil\source\repos\AdmiralRecoil\AdmiralRecoil\bin\Debug\AdmiralRecoil.exe.config
+C:\Users\Danil\source\repos\AdmiralRecoil\AdmiralRecoil\bin\Debug\AdmiralRecoil.exe
+C:\Users\Danil\source\repos\AdmiralRecoil\AdmiralRecoil\bin\Debug\AdmiralRecoil.pdb
+C:\Users\Danil\source\repos\AdmiralRecoil\AdmiralRecoil\obj\Debug\AdmiralRecoil.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\AdmiralRecoil\AdmiralRecoil\obj\Debug\AdmiralRecoil.Properties.Resources.resources
+C:\Users\Danil\source\repos\AdmiralRecoil\AdmiralRecoil\obj\Debug\AdmiralRecoil.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\AdmiralRecoil\AdmiralRecoil\obj\Debug\AdmiralRecoil.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\AdmiralRecoil\AdmiralRecoil\obj\Debug\AdmiralRecoil.exe
+C:\Users\Danil\source\repos\AdmiralRecoil\AdmiralRecoil\obj\Debug\AdmiralRecoil.pdb
+C:\Users\Danil\source\repos\AdmiralRecoil\AdmiralRecoil\obj\Debug\AdmiralRecoil.MainWindow.resources

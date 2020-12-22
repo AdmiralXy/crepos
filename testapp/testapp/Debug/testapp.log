@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  testapp.cpp
+c:\users\danil\source\repos\testapp\testapp\testapp.cpp(15): error C2040: str: "std::string" отличается по уровням косвенного обращения от "char *"

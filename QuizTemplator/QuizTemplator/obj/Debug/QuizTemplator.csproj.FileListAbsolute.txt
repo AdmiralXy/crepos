@@ -1,0 +1,13 @@
+c:\users\danil\source\repos\QuizTemplator\QuizTemplator\bin\Debug\QuizTemplator.exe.config
+c:\users\danil\source\repos\QuizTemplator\QuizTemplator\bin\Debug\QuizTemplator.exe
+c:\users\danil\source\repos\QuizTemplator\QuizTemplator\bin\Debug\QuizTemplator.pdb
+c:\users\danil\source\repos\QuizTemplator\QuizTemplator\obj\Debug\QuizTemplator.csprojAssemblyReference.cache
+c:\users\danil\source\repos\QuizTemplator\QuizTemplator\obj\Debug\QuizTemplator.Form1.resources
+c:\users\danil\source\repos\QuizTemplator\QuizTemplator\obj\Debug\QuizTemplator.Properties.Resources.resources
+c:\users\danil\source\repos\QuizTemplator\QuizTemplator\obj\Debug\QuizTemplator.csproj.GenerateResource.cache
+c:\users\danil\source\repos\QuizTemplator\QuizTemplator\obj\Debug\QuizTemplator.csproj.CoreCompileInputs.cache
+c:\users\danil\source\repos\QuizTemplator\QuizTemplator\obj\Debug\QuizTemplator.exe
+c:\users\danil\source\repos\QuizTemplator\QuizTemplator\obj\Debug\QuizTemplator.pdb
+c:\users\danil\source\repos\QuizTemplator\QuizTemplator\obj\Debug\QuizTemplator.Form2.resources
+C:\Users\Danil\source\repos\QuizTemplator\QuizTemplator\obj\Debug\QuizTemplator.CreateProject.resources
+C:\Users\Danil\source\repos\QuizTemplator\QuizTemplator\obj\Debug\QuizTemplator.TextForm.resources

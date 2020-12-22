@@ -1,0 +1,10 @@
+C:\Users\Danil\source\repos\QuizCreator\QuizCreator\bin\Release\QuizCreator.exe.config
+C:\Users\Danil\source\repos\QuizCreator\QuizCreator\bin\Release\QuizCreator.exe
+C:\Users\Danil\source\repos\QuizCreator\QuizCreator\bin\Release\QuizCreator.pdb
+C:\Users\Danil\source\repos\QuizCreator\QuizCreator\obj\Release\QuizCreator.Form1.resources
+C:\Users\Danil\source\repos\QuizCreator\QuizCreator\obj\Release\QuizCreator.Form2.resources
+C:\Users\Danil\source\repos\QuizCreator\QuizCreator\obj\Release\QuizCreator.Properties.Resources.resources
+C:\Users\Danil\source\repos\QuizCreator\QuizCreator\obj\Release\QuizCreator.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\QuizCreator\QuizCreator\obj\Release\QuizCreator.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\QuizCreator\QuizCreator\obj\Release\QuizCreator.exe
+C:\Users\Danil\source\repos\QuizCreator\QuizCreator\obj\Release\QuizCreator.pdb

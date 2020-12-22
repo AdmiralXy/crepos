@@ -1,0 +1,11 @@
+g.FillRectangle(myBrush, new Rectangle(1240, 95, 25, 155)); WallsCoords[0] = new Rectangle(1240, 95, 25, 155);
+g.FillRectangle(myBrush, new Rectangle(0, 70, 1265, 25)); WallsCoords[1] = new Rectangle(0, 70, 1265, 25);
+g.FillRectangle(myBrush, new Rectangle(850, 250, 415, 25)); WallsCoords[2] = new Rectangle(850, 250, 415, 25);
+g.FillRectangle(myBrush, new Rectangle(850, 390, 415, 25)); WallsCoords[3] = new Rectangle(850, 390, 415, 25);
+g.FillRectangle(myBrush, new Rectangle(1240, 415, 25, 155)); WallsCoords[4] = new Rectangle(1240, 415, 25, 155);
+g.FillRectangle(myBrush, new Rectangle(0, 570, 1265, 25)); WallsCoords[5] = new Rectangle(0, 570, 1265, 25);
+g.FillRectangle(myBrush, new Rectangle(245, 445, 200, 25)); WallsCoords[6] = new Rectangle(245, 445, 200, 25);
+g.FillRectangle(myBrush, new Rectangle(245, 320, 200, 25)); WallsCoords[7] = new Rectangle(245, 320, 200, 25);
+g.FillRectangle(myBrush, new Rectangle(245, 195, 200, 25)); WallsCoords[8] = new Rectangle(245, 195, 200, 25);
+g.FillRectangle(myBrush, new Rectangle(220, 195, 25, 275)); WallsCoords[9] = new Rectangle(220, 195, 25, 275);
+g.FillRectangle(myBrush, new Rectangle(445, 195, 25, 275)); WallsCoords[10] = new Rectangle(445, 195, 25, 275);

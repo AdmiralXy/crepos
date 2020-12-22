@@ -1,0 +1,3 @@
+﻿  zadanie_helloworld.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+  zadanie_helloworld.vcxproj -> C:\Users\Danil\source\repos\zadanie_helloworld\Debug\zadanie_helloworld.exe

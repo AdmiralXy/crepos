@@ -1,0 +1,10 @@
+C:\Users\Danil\source\repos\3lab_makin\3lab_makin\bin\Debug\3lab_makin.exe.config
+C:\Users\Danil\source\repos\3lab_makin\3lab_makin\bin\Debug\3lab_makin.exe
+C:\Users\Danil\source\repos\3lab_makin\3lab_makin\bin\Debug\3lab_makin.pdb
+C:\Users\Danil\source\repos\3lab_makin\3lab_makin\obj\Debug\3lab_makin.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\3lab_makin\3lab_makin\obj\Debug\_3lab_makin.Form1.resources
+C:\Users\Danil\source\repos\3lab_makin\3lab_makin\obj\Debug\_3lab_makin.Properties.Resources.resources
+C:\Users\Danil\source\repos\3lab_makin\3lab_makin\obj\Debug\3lab_makin.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\3lab_makin\3lab_makin\obj\Debug\3lab_makin.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\3lab_makin\3lab_makin\obj\Debug\3lab_makin.exe
+C:\Users\Danil\source\repos\3lab_makin\3lab_makin\obj\Debug\3lab_makin.pdb

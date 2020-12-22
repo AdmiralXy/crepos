@@ -1,0 +1,9 @@
+C:\Users\Danil\source\repos\AdmiralFishing\AdmiralFishing\bin\Release\AdmiralFishing.exe.config
+C:\Users\Danil\source\repos\AdmiralFishing\AdmiralFishing\bin\Release\AdmiralFishing.exe
+C:\Users\Danil\source\repos\AdmiralFishing\AdmiralFishing\bin\Release\AdmiralFishing.pdb
+C:\Users\Danil\source\repos\AdmiralFishing\AdmiralFishing\obj\Release\AdmiralFishing.Form1.resources
+C:\Users\Danil\source\repos\AdmiralFishing\AdmiralFishing\obj\Release\AdmiralFishing.Properties.Resources.resources
+C:\Users\Danil\source\repos\AdmiralFishing\AdmiralFishing\obj\Release\AdmiralFishing.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\AdmiralFishing\AdmiralFishing\obj\Release\AdmiralFishing.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\AdmiralFishing\AdmiralFishing\obj\Release\AdmiralFishing.exe
+C:\Users\Danil\source\repos\AdmiralFishing\AdmiralFishing\obj\Release\AdmiralFishing.pdb

@@ -1,0 +1,3 @@
+﻿  zad1_var3.cpp
+c:\users\danil\source\repos\zad1_var3\zad1_var3\zad1_var3.cpp(76): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  zad1_var3.vcxproj -> C:\Users\Danil\source\repos\zad1_var3\Debug\zad1_var3.exe

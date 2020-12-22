@@ -1,0 +1,10 @@
+c:\users\danil\source\repos\testapp2\testapp2\bin\Debug\testapp2.exe.config
+c:\users\danil\source\repos\testapp2\testapp2\bin\Debug\testapp2.exe
+c:\users\danil\source\repos\testapp2\testapp2\bin\Debug\testapp2.pdb
+c:\users\danil\source\repos\testapp2\testapp2\obj\Debug\testapp2.csprojAssemblyReference.cache
+c:\users\danil\source\repos\testapp2\testapp2\obj\Debug\testapp2.Form1.resources
+c:\users\danil\source\repos\testapp2\testapp2\obj\Debug\testapp2.Properties.Resources.resources
+c:\users\danil\source\repos\testapp2\testapp2\obj\Debug\testapp2.csproj.GenerateResource.cache
+c:\users\danil\source\repos\testapp2\testapp2\obj\Debug\testapp2.csproj.CoreCompileInputs.cache
+c:\users\danil\source\repos\testapp2\testapp2\obj\Debug\testapp2.exe
+c:\users\danil\source\repos\testapp2\testapp2\obj\Debug\testapp2.pdb

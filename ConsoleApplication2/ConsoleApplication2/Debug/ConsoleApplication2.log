@@ -1,0 +1,7 @@
+﻿  ConsoleApplication2.cpp
+c:\users\danil\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(21): error C2664: "int strcmp(const char *,const char *)": невозможно преобразовать аргумент 1 из "WCHAR [256]" в "const char *"
+  c:\users\danil\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(21): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\danil\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(36): error C2664: "int GetWindowTextW(HWND,LPWSTR,int)": невозможно преобразовать аргумент 2 из "char *" в "LPWSTR"
+  c:\users\danil\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(36): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\danil\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(49): error C2664: "HWND FindWindowExW(HWND,HWND,LPCWSTR,LPCWSTR)": невозможно преобразовать аргумент 3 из "const char [10]" в "LPCWSTR"
+  c:\users\danil\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(49): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции

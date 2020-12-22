@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Quiz Templator</title>
+    <!-- BOOTSTRAP -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/quiz.css">
+    <!-- FONTS -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <!-- Button -->
+    <div class="row">
+        <div class="col-md-4">
+            <button class="btn-fix btn-blue btn btn--s5-param" data-toggle="modal" data-target="#exampleModal">Пройти
+                тест <i class="fa fa-check" aria-hidden="true"></i></button>
+        </div>
+    </div>
+
+    <!-- Quiz Modal -->
+    <div class="modal fade bd-example-modal-lg montserrat-font" id="exampleModal" tabindex="-1" role="dialog"
+        aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <div class="container">
+                        <div class="quiz row rowfix">
+                            <div class="col-md-3 man_speech">
+                                <div class="container man-text text-left">
+                                    Привет! Давайте подберём спектр необходимых вам услуг...
+                                </div>
+                                <img id="my_image" class="img-responsive ontext" src="img/character/char1.png">
+                            </div>
+                            <div class="col-md-9 dynamite">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <h7 class="modal-title discount" id="exampleModalLabel">Пройдите тест и получите
+                                            скидку до 10%</h7>
+                                    </div>
+                                </div>
+
+                                <!-- SLIDE 1 -->
+                                <div class="quiz-slide" data-quiz-point-value="5">
+                                    <div class="row mt-5 mb-4">
+                                        <div class="col-md-12">
+                                            <h2 class="question modal-title" id="exampleModalLabel">Какой вид услуг вам
+                                                необходим?</h2>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-6 col-sm-3">
+                                            <div id="choose-1" class="quiz_answer col-centered">
+                                                <img class="img-responsive" src="img/slides/1slide/1.jpg">
+                                                <p class="quiz_underimagetext"><b>Налоговая консультация</b></p>
+                                            </div>
+                                        </div>
+                                        <div class="col-6 col-sm-3">
+                                            <div id="choose-2" class="quiz_answer col-centered">
+                                                <img class="img-responsive" src="img/slides/1slide/2.jpg">
+                                                <p class="quiz_underimagetext"><b>Оптимизация НДС</b></p>
+                                            </div>
+                                        </div>
+                                        <div class="col-6 col-sm-3">
+                                            <div id="choose-3" class="quiz_answer col-centered">
+                                                <img class="img-responsive" src="img/slides/1slide/3.jpg">
+                                                <p class="quiz_underimagetext"><b>Смена системы налогообложения</b></p>
+                                            </div>
+                                        </div>
+                                        <div class="col-6 col-sm-3">
+                                            <div id="choose-4" class="quiz_answer col-centered">
+                                                <img class="img-responsive" src="img/slides/another.jpg">
+                                                <p class="quiz_underimagetext"><b>Другое...</b></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row mt-5">
+                                        <div class="col-md-12">
+                                            <button id="next1" class="next-slide btn btn--s5-param" data-quiz-correct=""
+                                                disabled>Продолжить</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- END SLIDE 1 -->
+                                <!-- SLIDE 2 -->
+                                <div class="quiz-slide" data-quiz-point-value="5">
+                                    <div class="row">
+                                        <div class="col-md-12 mt-5 mb-4">
+                                            <h2 class="question modal-title" id="exampleModalLabel">Ваша система
+                                                налогооблажения:</h2>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-6 col-sm-3">
+                                            <div id="choose_2slide-1" class="quiz_answer col-centered">
+                                                <img class="img-responsive" src="img/slides/2slide/1.jpg">
+                                                <p class="quiz_underimagetext"><b>Упрощённая <br>(УСН 6%)</b></p>
+                                            </div>
+                                        </div>
+                                        <div class="col-6 col-sm-3">
+                                            <div id="choose_2slide-2" class="quiz_answer col-centered">
+                                                <img class="img-responsive" src="img/slides/2slide/2.jpg">
+                                                <p class="quiz_underimagetext"><b>Упрощённая <br>(УСН 15%)</b></p>
+                                            </div>
+                                        </div>
+                                        <div class="col-6 col-sm-3">
+                                            <div id="choose_2slide-3" class="quiz_answer col-centered">
+                                                <img class="img-responsive" src="img/slides/2slide/3.jpg">
+                                                <p class="quiz_underimagetext"><b>Общая с НДС</b></p>
+                                            </div>
+                                        </div>
+                                        <div class="col-6 col-sm-3">
+                                            <div id="choose_2slide-4" class="quiz_answer col-centered">
+                                                <img class="img-responsive" src="img/slides/2slide/4.jpg">
+                                                <p class="quiz_underimagetext"><b>Другое...</b></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row mt-5">
+                                        <div class="col-md-12">
+                                            <button id="next2" class="next-slide btn btn--s5-param" data-quiz-correct=""
+                                                disabled>Продолжить</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- END SLIDE 2 -->
+                                <!-- SLIDE 3 -->
+                                <div class="quiz-slide" data-quiz-point-value="5">
+                                    <div class="row">
+                                        <div class="col-md-12 mt-5 mb-4">
+                                            <h2 class="question modal-title" id="exampleModalLabel">Примерная выручка в
+                                                месяц, млн. руб</h2>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-6 col-sm-3">
+                                            <div id="choose_3slide-1" class="quiz_answer col-centered">
+                                                <img class="img-responsive" src="img/slides/3slide/1.jpg">
+                                                <p class="quiz_underimagetext"><b>до 2 млн.</b></p>
+                                            </div>
+                                        </div>
+                                        <div class="col-6 col-sm-3">
+                                            <div id="choose_3slide-2" class="quiz_answer col-centered">
+                                                <img class="img-responsive" src="img/slides/3slide/2.jpg">
+                                                <p class="quiz_underimagetext"><b>до 3 млн.</b></p>
+                                            </div>
+                                        </div>
+                                        <div class="col-6 col-sm-3">
+                                            <div id="choose_3slide-3" class="quiz_answer col-centered">
+                                                <img class="img-responsive" src="img/slides/3slide/3.jpg">
+                                                <p class="quiz_underimagetext"><b>до 4 млн.</b></p>
+                                            </div>
+                                        </div>
+                                        <div class="col-6 col-sm-3">
+                                            <div id="choose_3slide-4" class="quiz_answer col-centered">
+                                                <img class="img-responsive" src="img/slides/3slide/4.jpg">
+                                                <p class="quiz_underimagetext"><b>до 5 млн.</b></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row mt-5">
+                                        <div class="col-md-12">
+                                            <button id="next3" class="next-slide btn btn--s5-param" data-quiz-correct=""
+                                                disabled>Продолжить</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- END SLIDE 3 -->
+                                <!-- SLIDE RESULTS -->
+                                <div class="quiz-slide quiz-results" data-quiz-point-value="0">
+                                    <h2 class="modal-title" id="exampleModalLabel">Как с вами можно
+                                        связаться?</h2>
+                                    <h5 class="modal-title discount mb-5" id="exampleModalLabel"><b>Заполните форму, чтобы
+                                            я мог сформировать Ваш вопрос и по необходимости</b>,<br> связаться с
+                                        Вами для уточнения деталей.</h5>
+                                    <form>
+                                        <!-- Hidden Required Fields -->
+                                        <input type="hidden" name="project_name"
+                                            value="Заявка налогового консалтинга">
+                                        <input type="hidden" name="admin_email" value="support@detectivenow.ru">
+                                        <input type="hidden" name="form_subject" value="Заявка с формы">
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <input name="Результаты опроса" type="text" size="40"
+                                                    id="resultInput" hidden>
+                                                <input name="Имя" type="name" class="input_quiz text-center"
+                                                    id="exampleInputName" aria-describedby="" placeholder="Имя*"
+                                                    required>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <input name="Email" type="email" class="input_quiz text-center"
+                                                    id="exampleInputEmail" aria-describedby="" placeholder="Email">
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <input name="Номер телефона" type="tel"
+                                                    class="input_quiz text-center" id="exampleInputNumber"
+                                                    aria-describedby="" placeholder="Телефон*" required>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <button class="next-slide btn btn--s5-param"
+                                                    type="submit">Отправить</button>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                                <!-- END SLIDE 3 -->
+                                <!-- PROGRESS BAR -->
+                                <div class="col-md-12" style="vertical-align: bottom;">
+                                    <progress max="15" value="0" id="progressPasha"></progress>
+                                </div>
+                                <!-- END PROGRESS BAR -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous">
+    </script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous">
+    </script>
+    <script src="js/quiz.js"></script>
+
+    <script type="text/javascript">
+        $(window).on('load',function(){
+            $('#exampleModal').modal('show');
+        });
+    </script>
+
+</body>
+
+</html>
